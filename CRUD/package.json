@@ -1,0 +1,21 @@
+{
+  "name": "crud",
+  "version": "1.0.0",
+  "description": "crud api",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Prince Bhagat",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cors": "^2.8.5",
+    "dynamodb": "^1.2.1",
+    "express": "^4.17.1",
+    "ioredis": "^4.14.1",
+    "redis": "^2.8.0",
+    "response-time": "^2.3.2",
+    "uuid": "^3.3.3"
+  }
+}
